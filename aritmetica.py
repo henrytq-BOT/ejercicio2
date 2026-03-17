@@ -35,3 +35,8 @@ def fraccion_joel(a, b):
     return str(a) + "/" + str(b)
 
 print("Fracción (3/4):", fraccion_joel(3, 4))
+
+def modulo_mamani_yujra_alison(a, b):
+    return a % b
+
+print("Resultado:", modulo_mamani_yujra_alison(10, 3))
